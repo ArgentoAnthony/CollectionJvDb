@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CollectionJv", "CollectionJv.sqlproj", "{CBC8948D-5302-4AF9-A3AC-30AB3C63BC40}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JvDBAccesslayer", "JvDBAccesslayer\JvDBAccesslayer.csproj", "{AB2B38B5-DA10-4A4C-B88B-CA9F8A052BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanqueDeJeu", "BanqueDeJeu\BanqueDeJeu.csproj", "{4D909E1D-F847-463B-974A-EF1E37B17162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{CBC8948D-5302-4AF9-A3AC-30AB3C63BC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC8948D-5302-4AF9-A3AC-30AB3C63BC40}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CBC8948D-5302-4AF9-A3AC-30AB3C63BC40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AB2B38B5-DA10-4A4C-B88B-CA9F8A052BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2B38B5-DA10-4A4C-B88B-CA9F8A052BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2B38B5-DA10-4A4C-B88B-CA9F8A052BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2B38B5-DA10-4A4C-B88B-CA9F8A052BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D909E1D-F847-463B-974A-EF1E37B17162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D909E1D-F847-463B-974A-EF1E37B17162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D909E1D-F847-463B-974A-EF1E37B17162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D909E1D-F847-463B-974A-EF1E37B17162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
